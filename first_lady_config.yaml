@@ -1,0 +1,61 @@
+conqueror_status: False
+conquered: True
+dismiss_position_stale_positions: True
+important_boxes:
+  list_position:
+    x:
+    y:
+  approve_postion:
+    x:
+    y:
+  dismiss_position:
+    x:
+    y:
+  dismiss_confirmation:
+    x:
+    y:
+  exit_position:
+    x:
+    y:
+  safety_reset_position:
+    x:
+    y:
+secretary_positions:
+  military_commander:
+    conqueror_x:
+    conqueror_y:
+    stale_timer: 1800
+  adminstrative_commander:
+    conqueror_x:
+    conqueror_y:
+    stale_timer: 420
+  secretary_of_strategy:
+    conqueror_x:
+    conqueror_y:
+    x: 750
+    y: 123
+    stale_timer: 1800
+  secretary_of_security:
+    conqueror_x:
+      conqueror_y:
+    x: 750
+    y: 123
+    stale_timer: 420
+  secretary_of_development: 
+    conqueror_x:
+    conqueror_y:
+    x: 750
+    y: 123
+    stale_timer: 420
+  secretary_of_science:
+    conqueror_x:
+    conqueror_y:
+    x: 750
+    y: 123
+    stale_timer: 420
+  secretary_of_interior:
+    conqueror_x:
+    conqueror_y:
+    x: 750
+    y: 123
+    stale_timer: 420
