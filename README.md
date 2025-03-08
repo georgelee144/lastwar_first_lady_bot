@@ -7,7 +7,7 @@ This is a First Lady or Vice President bot for the mobile game Last War. This bo
 
 2. Download this repository (repo).
 
-    ```git clone https://github.com/georgelee144/lastwar_first_lady_bot.git```
+    ```git clone https://github.com/georgelee144/lastwar_first_lady_vice_president_bot.git```
 
 3. Change into the newly create directory and create a local python environment (env). It is always recommended to make a new env for any project you are working in.
 
