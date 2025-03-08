@@ -1,25 +1,29 @@
 conqueror_status: False
 conquered: True
 dismiss_position_stale_positions: True
+pytesseract_path: "C:/Program Files/Tesseract-OCR/tesseract.exe"
+# [left_most_x,top_most_y,x_to_offset,y_to_offset]
+time_in_office_screenshot_region: [549,235,150,16]
 important_boxes:
   list_position:
-    x:
-    y:
+    x: 770
+    y: 645
   approve_postion:
-    x:
-    y:
+    x: 720
+    y: 200
   dismiss_position:
-    x:
-    y:
+    x: 570
+    y: 625
   dismiss_confirmation:
-    x:
-    y:
+    x: 560
+    y: 430
   exit_position:
-    x:
-    y:
+    x: 800
+    y: 100
+  # a neutral place to click to reset the FL/VP screen if it fails; chose top of the screen
   safety_reset_position:
-    x:
-    y:
+    x: 600
+    y: 50
 secretary_positions:
   military_commander:
     conqueror_x:
@@ -32,30 +36,30 @@ secretary_positions:
   secretary_of_strategy:
     conqueror_x:
     conqueror_y:
-    x: 750
-    y: 123
+    x: 620
+    y: 390
     stale_timer: 1800
   secretary_of_security:
     conqueror_x:
-      conqueror_y:
-    x: 750
-    y: 123
+    conqueror_y:
+    x: 745
+    y: 390
     stale_timer: 420
   secretary_of_development: 
     conqueror_x:
     conqueror_y:
-    x: 750
-    y: 123
+    x: 500
+    y: 550
     stale_timer: 420
   secretary_of_science:
     conqueror_x:
     conqueror_y:
-    x: 750
-    y: 123
+    x: 620
+    y: 550
     stale_timer: 420
   secretary_of_interior:
     conqueror_x:
     conqueror_y:
-    x: 750
-    y: 123
+    x: 745
+    y: 550
     stale_timer: 420
